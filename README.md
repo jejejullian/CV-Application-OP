@@ -4,7 +4,7 @@ This project is part of **The Odin Project** curriculum. It is built to practice
 
 > ⚠️ **Note:** This project currently focuses entirely on **Functionality & Logic**. No styling (CSS) has been applied yet, so the interface is raw HTML.
 
-🔗 **[gLive Demo](MASUKKAN_LINK_HOSTING_KAMU_DISINI)**
+🔗 **[Live Demo](https://jejejullian.github.io/CV-Application-OP/)**
 
 ## 🌟 Key Features
 
